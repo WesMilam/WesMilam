@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @WesMilam
-- 👀 I’m interested in data analysis, automation, and learning new ways to do these things.
-- 🌱 I will finish my MS in Data Science this fall. Currently working in automation.
-- 💞️ I’m looking to collaborate on scripting projects. Python, PowerShell, R, JavaScript, Tableau, PowerBI, data cleaning techniques, it all interests me. :)
-- 📫 Reach me? I can't put to much out there, but @ me and I will get back. 
+👋 Hi, I’m Dr. Wes Milam (@DrWesMilam)
+
+🔍 I'm passionate about data science, predictive analytics, MLOps, Generative AI, and software development.
+
+🎓 I hold a Doctor of Science in Information Technology. My original research developed an AI acceptance model incorporating cognitive dissonance theory in tech adoption.
+
+🧠 I’m driven by curiosity and the belief that adaptability beats specialization in a fast-changing tech landscape.
+
+🛠️ I love solving complex problems across diverse ecosystems, languages, and tools.
+
+📫 Want to connect? Tag me and I’ll respond—can’t always post contact details publicly.
+
+💡 Philosophy
+"Don’t chase the hottest stack. Learn fast, build smart, and question everything."
 
 <!---
 WesMilam/WesMilam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
