@@ -11,7 +11,7 @@
 📫 Want to connect? Tag me and I’ll respond—can’t always post contact details publicly.
 
 💡 Philosophy
-"Don’t chase the hottest stack. Learn fast, build smart, and question everything."
+"Don’t chase the hottest stack. Learn fast, build smart. If you think the world needs it, create it."
 
 <!---
 WesMilam/WesMilam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
