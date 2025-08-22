@@ -8,7 +8,7 @@
 
 🛠️ I love solving complex problems across diverse ecosystems, languages, and tools.
 
-📫 Want to connect? Tag me and I’ll respond—can’t always post contact details publicly.
+📫 Want to connect? wesmilamprime@gmail.com
 
 💡 Philosophy
 "Don’t chase the hottest stack. Learn fast, build smart. If you think the world needs it, create it."
